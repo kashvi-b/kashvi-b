@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @kashvi-b
-- 👀 I’m interested in.... coding,dancing
-- 🌱 I’m currently learning ...web dev
+Hi, I'm Kashvi Bhardwaj
+Computer Science Student at SRM IST
+💻 Aspiring Software Engineer | Machine Learning & Data Analytics Enthusiast
+📍 Chennai, India
+
+I am passionate about building data-driven applications and solving real-world problems using technology. My interests include software development, machine learning, and data analytics. I enjoy turning raw data into meaningful insights and creating user-friendly applications.
 
 
 <!---

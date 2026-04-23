@@ -16,8 +16,8 @@ I am passionate about building data-driven applications and solving real-world p
 ![](https://nirzak-streak-stats.vercel.app/?user=kashvi-b&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashvi-b&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kashvi-b&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🔥 Streak Stats
+![](https://streak-stats.demolab.com/?user=kashvi-b&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

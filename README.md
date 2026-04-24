@@ -19,13 +19,6 @@ I am passionate about building data-driven applications and solving real-world p
 ## 🔥 Streak Stats
 ![](https://streak-stats.demolab.com/?user=kashvi-b&theme=radical)
 
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kashvi-b&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-
-## 🚀 Projects
-- 📄 PDF QA System (LLM-based)
-- 🤖 NLP Humor Detection
-
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=kashvi-b&show_icons=true&theme=radical)
 

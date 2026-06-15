@@ -1,9 +1,25 @@
-Hi, I'm Kashvi Bhardwaj
-Computer Science Student at SRM IST
-💻 Aspiring Software Engineer | Machine Learning & Data Analytics Enthusiast
-📍 Chennai, India
+# Hi 👋 I'm Kashvi Bhardwaj
 
-I am passionate about building data-driven applications and solving real-world problems using technology. My interests include software development, machine learning, and data analytics. I enjoy turning raw data into meaningful insights and creating user-friendly applications.
+🎓 Student passionate about AI, Machine Learning, Data Analytics and Generative AI.
+
+## Skills
+
+🐍 Python
+📊 SQL
+📈 Tableau
+🤖 Machine Learning
+🧠 Generative AI
+🔎 RAG
+📚 FAISS
+🌐 Streamlit
+
+## Featured Projects
+
+🚀 AI Video Summarization
+📦 Supply Chain Intelligence
+📄 PDF-QA (RAG)
+📉 Telco Churn Prediction
+🛒 E-commerce Data Analysis
 
 
 ## 🌐 Socials:

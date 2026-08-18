@@ -49,8 +49,7 @@ Git | GitHub | Jupyter | Google Colab | Streamlit
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=kashvi-b&show_icons=true&theme=radical)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kashvi-b&limit=5&theme=dark&combine_all_yearly_contributions=true)
